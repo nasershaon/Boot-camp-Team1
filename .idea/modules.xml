@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AirBnB/AirBnB.iml" filepath="$PROJECT_DIR$/AirBnB/AirBnB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Amex/Amex.iml" filepath="$PROJECT_DIR$/Amex/Amex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CNN/CNN.iml" filepath="$PROJECT_DIR$/CNN/CNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Emirates/Emirates.iml" filepath="$PROJECT_DIR$/Emirates/Emirates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Geico/Geico.iml" filepath="$PROJECT_DIR$/Geico/Geico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelathFirst/HelathFirst.iml" filepath="$PROJECT_DIR$/HelathFirst/HelathFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T-Mobile/T-Mobile.iml" filepath="$PROJECT_DIR$/T-Mobile/T-Mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Team-1_WebAutomationFramework.iml" filepath="$PROJECT_DIR$/Team-1_WebAutomationFramework.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Emirates" />
+        <module name="T-Mobile" />
+        <module name="Amazon" />
+        <module name="HelathFirst" />
+        <module name="Geico" />
+        <module name="Generic" />
+        <module name="Amex" />
+        <module name="CNN" />
+        <module name="AirBnB" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AirBnB" target="1.8" />
+      <module name="Amazon" target="1.8" />
+      <module name="Amex" target="1.8" />
+      <module name="CNN" target="1.8" />
+      <module name="Emirates" target="1.8" />
+      <module name="Geico" target="1.8" />
+      <module name="Generic" target="1.8" />
+      <module name="HelathFirst" target="1.8" />
+      <module name="T-Mobile" target="1.8" />
+      <module name="Team-1_WebAutomationFramework" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
